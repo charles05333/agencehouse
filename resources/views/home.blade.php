@@ -4,12 +4,13 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Need House | Conciergerie & Gestion Locative — Simplifiez votre location courte durée</title>
-  <link rel="icon" type="image/svg+xml" href="{{ asset('docs/images/logo.png') }}">
+  <link rel="icon" type="image/svg+xml" href="{{ asset('docs/images/logo.svg') }}">
   <meta name="description" content="Need House, votre agence de conciergerie et gestion locative de A à Z. Photos pro, gestion des réservations, ménage, tarification dynamique. Maximisez vos revenus sans les tracas du quotidien." />
   <meta name="keywords" content="conciergerie, gestion location courte durée, gestion Airbnb, conciergerie immobilière, conciergerie pour propriétaires, location saisonnière, check-in check-out, ménage location saisonnière, accueil voyageurs, gestion locative personnalisée, tarification dynamique, optimisation annonce Airbnb, photos professionnelles location" />
   <meta name="author" content="Need House" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://www.needhouse.fr/" />
+
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://www.needhouse.fr/" />
   <meta property="og:title" content="Need House | Conciergerie & Gestion Locative" />
